@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div align="center">
+        <h2>회원가입</h2>
+        <hr width="30%" color="black">
+        <br>
+        <table>
+            <tr>
+                <td colspan=>
+                    <input type="password" style="width:400px; height:30px" placeholder="* 이름">
+                </td>
+            </tr>
+            <tr>
+                <td colspan=>
+                    <input type="text" style="width:400px; height:30px" placeholder="* 아이디">
+                </td>
+            </tr>
+            <tr>
+                <td colspan=>
+                    <input type="password" style="width:400px; height:30px" placeholder="* 비밀번호">
+                </td>
+            </tr>
+            <tr>
+                <td colspan=>
+                    <input type="password" style="width:400px; height:30px" placeholder="* 비밀번호 확인">
+                </td>
+            </tr>
+            <tr>
+                <td colspan=>
+                    <input type="password" style="width:400px; height:30px" placeholder="* 전화번호">
+                </td>
+            </tr>
+            <tr>
+                <td colspan=>
+                    <input type="password" style="width:400px; height:30px" placeholder="* 이메일">
+                </td>
+            </tr>
+        </table>
+        <table>
+            <tr>
+                <td>
+                    <input type="checkbox">(필수) ~~~ 동의
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="checkbox">(선택) ~~~ 동의
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <input type="submit" value="회원가입" style="width:408px; height:35px">
+                </td>
+            </tr>
+            
+        </table>
+    </div>
+</body>
+</html>
